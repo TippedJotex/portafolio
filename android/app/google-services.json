@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "656988157409",
+    "project_id": "adopc-comerc-mascotas",
+    "storage_bucket": "adopc-comerc-mascotas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656988157409:android:c7d4cfe6f5f7495c614ea0",
+        "android_client_info": {
+          "package_name": "com.example.tesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656988157409-d56h537f1aoqrnn0qmj8s8tcep12epaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesis",
+            "certificate_hash": "68e5d4d02e678676468f8339dda86148fd221fe9"
+          }
+        },
+        {
+          "client_id": "656988157409-cure6dcfhknb2vcgqjvugj54f68c7blc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tCgXKVFT9BOAJByiafseT74_1RBuXIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656988157409-cure6dcfhknb2vcgqjvugj54f68c7blc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656988157409:android:231e2cf9499b7432614ea0",
+        "android_client_info": {
+          "package_name": "com.example.test_tesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656988157409-cure6dcfhknb2vcgqjvugj54f68c7blc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tCgXKVFT9BOAJByiafseT74_1RBuXIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656988157409-cure6dcfhknb2vcgqjvugj54f68c7blc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
